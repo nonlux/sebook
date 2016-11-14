@@ -1,0 +1,14 @@
+{
+  "generator-prj": {
+    "projectName": "sebook",
+    "isGithub": false,
+    "description": "sebook",
+    "projectType": "javascript",
+    "shortName": "sebook",
+    "isBabel": true,
+    "isEslint": true,
+    "isWebpack": true,
+    "isGulp": true,
+    "isReact": true
+  }
+}

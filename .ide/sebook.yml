@@ -1,0 +1,8 @@
+name: sebook
+root: /home/nonlux/src/sebook
+pre: emacs --eval "(setq server-name \"sebook\")" --daemon
+startup_window: editor
+windows:
+  - none: ''
+  - editor: emacsclient -s sebook ./
+  - zsh: ''
