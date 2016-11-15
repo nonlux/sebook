@@ -5,4 +5,5 @@ startup_window: editor
 windows:
   - none: ''
   - editor: emacsclient -s sebook ./
+  - gulp: gulp dev
   - zsh: ''

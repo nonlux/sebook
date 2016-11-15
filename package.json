@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
+    "nlx-react-common": "0.0.2",
     "react": "^15.3.2",
     "react-addons-pure-render-mixin": "^15.3.2",
     "react-autosuggest": "^7.0.1",
